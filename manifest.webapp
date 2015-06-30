@@ -1,15 +1,15 @@
 {
-  "name": "File Manager w/o Context Menu",
-  "description": "Disable context menu in File Manager app",
+  "name": "no-context-menu",
+  "description": "Disable context menu in apps without handle it",
   "developer": {
     "name": "John Hu"
   },
-  "package_path": "application.zip"
+  "package_path": "application.zip",
   "role": "addon",
   "type": "certified",
   "customizations": [
     {
-      "filter": "app://{2d0647cd-26ef-424b-856e-fc7f2ba73a7d}",
+      "filter": "app://{",
       "scripts": [
         "main.js"
       ]
