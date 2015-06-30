@@ -1,6 +1,6 @@
 {
-  "name": "fxos-filemanager-patch",
-  "description": "Disable context menu in File Manager app",
+  "name": "no-context-menu",
+  "description": "Disable context menu in apps without handle it",
   "developer": {
     "name": "John Hu"
   },
