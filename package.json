@@ -1,0 +1,11 @@
+{
+  "name": "fxos-filemanager-patch",
+  "description": "Disable context menu in File Manager app",
+  "developer": {
+    "name": "John Hu"
+  },
+  "dependencies": {
+    "gulp": "*",
+    "gulp-zip": "*"
+  }
+}
